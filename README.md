@@ -6,7 +6,7 @@ This project explores and analyzes the Nobel Prize data from 1901 to 2016. The m
 
 This project analyzes the historical data of Nobel Prizes awarded between 1901 and 2016. It covers various aspects of the awards, including:
 - Distribution of prizes over time
-- Categories of awards (e.g., Physics, Chemistry, Peace, etc.)
+- Categories of awards (Physics, Chemistry, Peace, etc.)
 - Geographical trends and nationalities of laureates
 - Gender distribution among the winners
 
