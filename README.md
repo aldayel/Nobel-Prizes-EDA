@@ -69,4 +69,4 @@ Nobel_Prizes_1901-2016/
    ```
    
 ## License
-MIT License.
+MIT License
